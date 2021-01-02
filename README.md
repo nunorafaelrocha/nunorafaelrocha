@@ -1,7 +1,5 @@
 <h1>👋 Hi there!</h1>
 
----
-
 **I'm Nuno**, a technology enthusiast with 10+ years of experience building robust tools and applications using state of the art technology that best tackles business requirements and needs.
 
 - 🏢 Engineering Manager at [DataCamp](https://datacamp.com)
