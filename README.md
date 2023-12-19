@@ -5,7 +5,7 @@
 - 🏢 Director of Engineering at [DataCamp](https://datacamp.com)
 - 🏠 Living in Brussels, Belgium - From Braga, Portugal
 - 🌍 Website & Blog: [nunorafaelrocha.com](https://nunorafaelrocha.com)
-- 📫 How to reach me: [@nunorafael](https://twitter.com/nunorafael) 
+- 📫 How to reach me: [@nunorafaelrocha](https://www.linkedin.com/in/nunorafaelrocha/) 
 - 📷 Check out my photos: [@nunorafaelrocha](https://instagram.com/nunorafaelrocha) 
 
 
