@@ -2,11 +2,9 @@
 
 **I'm Nuno**, a technology enthusiast with 15+ years of experience building robust tools and applications using state of the art technology that best tackles business requirements and needs.
 
-- 🏢 Director of Engineering at [DataCamp](https://datacamp.com)
-- 🏠 Living in Brussels, Belgium - From Braga, Portugal
+- 🏢 VP of Engineering at [DataCamp](https://datacamp.com)
 - 🌍 Website & Blog: [nunorafaelrocha.com](https://nunorafaelrocha.com)
 - 📫 How to reach me: [@nunorafaelrocha](https://www.linkedin.com/in/nunorafaelrocha/) 
-- 📷 Check out my photos: [@nunorafaelrocha](https://instagram.com/nunorafaelrocha) 
 
 
 <!--
